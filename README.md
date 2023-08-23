@@ -118,3 +118,50 @@ Abdusattorov Sh, [8/22/2023 4:01 PM]
 ### //Функсияи isNaN() тафтиш мекунад, ки оё арзиш NaN (Не рақам) аст ё не.
 
 # Lecture_3
+
+
+
+
+
+# Array in JavaScript
+
+- An array is an object that holds values (of any type) not particularly in named properties/keys, 
+but rather in numerically indexed position
+In JavaScript, an array is an ordered list of values. Each value is called an element specified by 
+an index. ... First, an array can hold values of mixed types.
+An array is a special variable, which can hold more than one value:
+
+
+
+# CHANGE ELEMENTS IN ARRAY
+
+- You can also add elements or change the elements by accessing the index value
+Suppose, an array has two elements. If you try to add an element at index 3 (fourth 
+element), the third element will be undefined. For example,
+
+
+# array method push
+ - The push() method adds one or more elements to the end of an array and returns the
+new length of the array. 
+The element(s) to add to the end of the array.
+Syntax: push(element0, element1, /* … ,*/ elementN)
+
+
+# POP
+- The pop() method removes the last element from an array and returns that element. 
+This method changes the length of the array.
+# unshift
+- The unshift() method adds one or more elements to the beginning of an array and
+returns the new length of the array. 
+
+# shift 
+- The pop() method removes the last element from an array and returns that element. 
+This method changes the length of the array. 
+
+# toString
+
+- The toString() method returns a string representing the specified array and its
+elements. 
+A string representing the elements of the array.
+
+# 
